@@ -1,3 +1,6 @@
+
+
+
 # Oi, me chamo Vitor Hugo Vieira Braga 👋
 
 ### Sobre mim
@@ -49,7 +52,7 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 <div>
 <a href="https://github.com/vitorhvieira">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhvieira&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorhvieira&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorhvieira&theme=dracula&show_icons=true"/>
 </div>
 
 ### Entre em contato comigo! 📭
